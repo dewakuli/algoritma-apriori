@@ -11,7 +11,7 @@ Confidence mengacu pada kemungkinan seorang pelanggan membeli item1 dan item2 se
 - Confidence = jumlah transaksi kombinasi item1 dan item2 / total transaksi item1
 ### lift
 Lift adalah peningkatan rasio penjualan item 1 saat kita menjual item2.
-- Lift = support(kopi dan minyak) / (support(kopi) * support(minyak))
+- Lift = support(item1 dan item2) / (support(item1) * support(item2))
 # penjabaran
 ## install library
 instalasi bisa menggunaka Virtual Environment / cmd
