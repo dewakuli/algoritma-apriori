@@ -1,7 +1,7 @@
 # APRIORI
 Fungsi dari algoritma Apriori adalah untuk menemukan aturan asosiasi yang dapat digunakan untuk mengidentifikasi hubungan antara item atau elemen dalam kumpulan data. Aturan asosiasi ini membantu dalam analisis dan pengambilan keputusan di berbagai bidang, seperti pemasaran, penjualan, dan rekomendasi produk.
 
-## kasus yang di angkat
+## perhitungan
 dalam kasus ini mengunakan dataset penjualan di ustu toko (data buatan gak rill) dengan sumber perhitungan sebagai berikut:
 ### Support
 Support menunjukkan popularitas rata-rata produk atau item dalam database. Kita bisa mendapatkan nilai support dengan membagi jumlah total transaksi yang mengandung produk itu dengan jumlah total transaksi.
